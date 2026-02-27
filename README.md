@@ -43,10 +43,19 @@ Here is a breakdown of the core systems you can explore in this repository. Thes
 
 ## 📸 Visual Showcase
 
-*(Insert your GIFs or short gameplay clips here. Seeing the code in action is highly recommended.)*
+<img width="2560" height="1366" alt="menu" src="https://github.com/user-attachments/assets/1930cbe2-4204-4a5e-b769-273ebc7beedb" />
 
-![Combat System Showcase](link-to-your-gif-here)
-*GIF Description: Demonstration of the event-driven combat system and enemy AI group management.*
+<img width="2560" height="1440" alt="Captura de pantalla 2026-02-27 160312" src="https://github.com/user-attachments/assets/64b6f453-6aef-4605-9a07-86e19d079610" />
+
+<img width="2560" height="1440" alt="Captura de pantalla 2026-02-27 160332" src="https://github.com/user-attachments/assets/0704492e-71cb-494e-ac16-edc36c928ad5" />
+
+<img width="2560" height="1440" alt="Captura de pantalla 2026-02-27 160232" src="https://github.com/user-attachments/assets/b3af7df4-67af-40a9-b02d-37392a8a3aff" />
+
+https://github.com/user-attachments/assets/a7e24655-2a18-4e4a-b5ff-c2d77a979574
+
+https://github.com/user-attachments/assets/4c3f4fbf-c57c-4a99-b283-8c56bc3685d2
+
+https://github.com/user-attachments/assets/8d2e1b3a-5da4-4856-9de7-e5d06607a444
 
 ## 📬 Contact & Links
 
